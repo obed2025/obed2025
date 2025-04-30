@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is NIYOMUGISHA Obed and I'm a front-end developer, from Rwanda!</p>
+<p align="left">My name is NIYOMUGISHA Obed and I'm a front-end developer!</p>
 
 ###
 
