@@ -49,9 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" />
   <img width="12" />
-  <img src="https://svelte.nativescript.org/svelte-native-logo.svg" height="40" alt="svelte-native logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="sveltekit logo"  />
 </div>
 
 ###
