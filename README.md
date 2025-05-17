@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: To Become a full stack web developer<br>🎲 Fun fact: Yesterday I slept to day</p>
+<p align="left">
+  ✨ Creating bugs since 2022 <br>
+  🌍 Based in Rwanda <br>
+  👷‍♂️ Notable projects: 
+      <a href="https://nexcent-by-obed.vercel.app/">Nexcent landing page</a>,
+      <a href="https://shopping-list-by-obed.vercel.app/">Shopping List</a> <br>
+  🎶 I enjoy listening to lofi music while coding <br>
+  📞 Connect with me: <a href="https://instagram.com/obedniyomugisha71">Instagram</a>, 
+      <a href="https://x.com/obed_niyomugish">X-Twitter</a>, 
+      <a href="mailto:obed6@duck.com">obed6@duck.com</a>
+</p>
 
 ###
 
@@ -19,23 +29,29 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/firefox-developer-edition-57-70-icon-989x1024-6vqqo4ga.png" height="40" alt="firefox developer edition logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+  <img src="https://github.com/ekmas/minimal/blob/main/public/favicon.svg" height="40" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://svelte.nativescript.org/svelte-native-logo.svg" height="40" alt="svelte-native logo"  />
 </div>
 
 ###
