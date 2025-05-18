@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is NIYOMUGISHA Obed and I'm a front-end developer!</p>
+<p align="left">My name is NIYOMUGISHA Obed and I'm a full-stack web developer!</p>
 
 ###
 
@@ -39,7 +39,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://deno.com/favicon.ico?__frsh_c=fed3138a3e09353d123885bc78d94569b2331c46" height="40" alt="deno logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
