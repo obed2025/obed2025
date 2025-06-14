@@ -29,33 +29,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="/assets/vscode.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/firefox-developer-edition-57-70-icon-989x1024-6vqqo4ga.png" height="40" alt="firefox developer edition logo"  />
+  <img src="/assets/firefox-developer-edition.png" height="40" alt="firefox developer edition logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="/assets//html.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="/assets/css_new.png" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="/assets//js.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="/assets/git.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="/assets/github.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://deno.com/favicon.ico?__frsh_c=fed3138a3e09353d123885bc78d94569b2331c46" height="40" alt="deno logo" />
+  <img src="/assets/deno.ico" height="40" alt="deno logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img src="/assets/ts.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img src="/assets/express.svg" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="/assets/mongodb.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://github.com/ekmas/minimal/blob/main/public/favicon.svg" height="40" alt="astro logo"  />
+  <img src="/assets/astro.svg" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="/assets/sass.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img src="/assets/svelte.svg" height="40" alt="svelte logo"  />
 </div>
 
 ###
