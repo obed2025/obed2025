@@ -15,7 +15,7 @@
   🌍 Based in Rwanda <br>
   👷‍♂️ Notable projects: 
       <a href="https://nexcent-by-obed.vercel.app/">Nexcent landing page</a>,
-      <a href="https://shopping-list-by-obed.vercel.app/">Shopping List Generator</a> <br>
+      <a href="https://devis-by-obed.vercel.app/">Devis</a>, <a href="https://mpc-class-chatbot.vercel.app/">MPC Class Chatbot</a>, <a href="https://ussd-250.vercel.app/">USSD 250</a> <br>
   🎶 I enjoy listening to lofi music while coding <br>
   📞 Connect with me: <a href="https://instagram.com/obedniyomugisha71">Instagram</a>, 
       <a href="https://x.com/obed_niyomugish">X-Twitter</a>, 
