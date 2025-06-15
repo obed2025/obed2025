@@ -29,33 +29,29 @@
 ###
 
 <div align="left">
-  <img src="/assets/vscode.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="/assets/firefox-developer-edition.png" height="40" alt="firefox developer edition logo"  />
-  <img width="12" />
   <img src="/assets//html.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="/assets/css_new.png" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="/assets//js.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="/assets/git.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="/assets/github.svg" height="40" alt="github logo"  />
+  <br />
+  <img src="/assets/js.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="/assets/deno.ico" height="40" alt="deno logo" />
   <img width="12" />
   <img src="/assets/ts.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="/assets/express.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="/assets/mongodb.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
+  <br />
   <img src="/assets/astro.svg" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="/assets/sass.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="/assets/svelte.svg" height="40" alt="svelte logo"  />
+  <br />
+  <img src="/assets/express.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="/assets/ejs.svg" height="40" alt="ejs logo" />
+  <img width="12" />
+  <img src="/assets/mongodb.svg" height="40" alt="mongodb logo" />
 </div>
 
 ###
