@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-<img src="/images/laptop.gif" />
+<img src="https://github.com/obed2025/obed2025/raw/main/images/laptop.gif" />
 
-I'm **NIYOMUGISHA Obed**, a passionate developer from Kigali, Rwanda. I specialize in crafting exceptional web experiences using [TypeScript](https://www.typescriptlang.org/), [Astro](https://astro.build/), and [Svelte](https://svelte.dev/). Let's build something amazing together!
+I'm **NIYOMUGISHA Obed**, a passionate web developer from Kigali, Rwanda. I specialize in crafting exceptional web experiences using [SvelteKit](https://svelte.dev/). Let's build something amazing together!
 
 ## About Me
 
@@ -10,7 +10,31 @@ I'm a software developer with expertise in modern web technologies. I love worki
 
 ## Skills & Technologies
 
-<img src="/images/icons.svg" />
+### 0. Tools
+
+- **Browser**: Firefox Developer Edition
+- **JavaScript Runtime Emvironment**: Deno
+- **Code Editor**: Visual Studio Code
+
+### 1. Core Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### 2. Version Control and Deployment
+
+- Git
+- GitHub
+- Vercel
+
+### 3. Frameworks, Type Safety and Database
+
+- Svelte & SvelteKit
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- Better Auth
 
 ## GitHub Stats
 
