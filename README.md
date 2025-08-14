@@ -28,11 +28,15 @@ I'm a software developer with expertise in modern web technologies. I love worki
 - GitHub
 - Vercel
 
-### 3. Frameworks, Type Safety and Database
+### 3. Static Site Generation
+
+- TypeScript
+- Astro
+- Tailwind
+
+### 4. Frontend Framework and Backend
 
 - Svelte & SvelteKit
-- TypeScript
-- Tailwind CSS
 - MongoDB
 - Better Auth
 
