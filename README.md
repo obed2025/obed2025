@@ -24,21 +24,20 @@ I'm a software developer with expertise in modern web technologies. I love worki
 
 ### 2. Version Control and Deployment
 
-- Git
-- GitHub
+- Git & GitHub
 - Vercel
-
-### 3. Static Site Generation
-
-- TypeScript
-- Astro
-- Tailwind
 
 ### 4. Frontend Framework and Backend
 
+- TypeScript
 - Svelte & SvelteKit
 - MongoDB
 - Better Auth
+
+### 3. Static Site Generation
+
+- Astro
+- Tailwind
 
 ## GitHub Stats
 
