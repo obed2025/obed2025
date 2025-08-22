@@ -10,26 +10,25 @@ I'm a software developer with expertise in modern web technologies. Currently, I
 
 ## Skills & Technologies
 
-### 1. Core Technologies
-
 - HTML
 - CSS
 - JavaScript
-
-### 2. Version Control and Deployment
-
-- Git & GitHub
-- Vercel
-
-### 4. Frontend Development
-
-- Svelte
-- Tailwind
-
-### 3. Full Stack
+<hr />
 
 - TypeScript
 - Astro
+- Tailwind CSS
+<hr />
+
+- Svelte 
+- SvelteKit
+- MongoDB
+<hr />
+
+- Better Auth
+- Appwrite
+- Paraglide
+
 
 ## GitHub Stats
 
